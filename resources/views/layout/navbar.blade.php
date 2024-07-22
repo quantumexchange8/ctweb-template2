@@ -59,7 +59,7 @@
                     </a>
                 </div>
                 <div class="main__logo">
-                    <h1 class="main__logo--title"><a class="main__logo--link" href="/home"><img class="main__logo--img" src="assets/img/logo/nav-log.webp" alt="logo-img"></a></h1>
+                    <h1 class="main__logo--title"><a class="main__logo--link" href="/home"><img class="main__logo--img" src="assets/img/logo/logo.svg" alt="logo-img" style="width: 60px; height: 60px;"></a></h1>
                 </div>
                 <div class="header__menu d-none d-lg-block">
                     <nav class="header__menu--navigation">

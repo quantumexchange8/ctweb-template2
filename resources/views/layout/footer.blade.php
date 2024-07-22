@@ -109,7 +109,7 @@
             </div>
         </div>
         <div class="footer__bottom d-flex justify-content-between align-items-center">
-            <p class="copyright__content">Copyright © 2022 <a class="copyright__content--link" href="/home">Furea</a> . All Rights Reserved.Design By Furea</p>
+            <p class="copyright__content">Copyright © 2022 <a class="copyright__content--link" href="/home">Current Tech</a> . All Rights Reserved.Design By Current Tech</p>
             <div class="footer__payment text-right">
                 <img class="footer__payment--visa__card display-block" src="assets/img/other/payment-visa-card.webp" alt="visa-card">
             </div>
