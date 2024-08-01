@@ -1,9 +1,9 @@
 @charset "UTF-8";
 /* CSS INDEXING */
 :root {
-  --primary-color: #121a25;
-  --secondary-color: #f51c1c;
-  --secondary-color2: #4f5ac2;
+  --primary-color: #f51c1c;
+  --secondary-color: #1c20f5;
+  --secondary-color2: #4f5ac2;  
   --yellow-color: #ffc107;
   --text-gray-color: #666666;
   --white-color: #ffffff;
@@ -35,7 +35,7 @@
 }
 
 .color-scheme-2 {
-  --secondary-color: #4f5ac2;
+  --secondary-color: #c24faf;
 }
 
 .color-scheme-3 {
@@ -4671,19 +4671,19 @@ input[type="number"]::-webkit-outer-spin-button {
 }
 
 .product__items--color__link.one {
-  background: #fb2c36;
+  background: #fb2cb6;  
 }
 
 .product__items--color__link.two {
-  background: #f8a81e;
+  background: #37f81e;
 }
 
 .product__items--color__link.three {
-  background: #2cfb3a;
+  background: #2cf4fb;
 }
 
 .product__items--color__link.four {
-  background: #2c9afb;
+  background: #fbdc2c;
 }
 
 @media only screen and (max-width: 575px) {
